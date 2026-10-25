@@ -11,8 +11,6 @@ Source File : https://drive.google.com/drive/u/1/folders/10QmqQ34Stwsk5Q3Ayf994w
 - template : Landing Page & Admin (atau mungkin ada masukan template yang lebih sesuai bisa d share)
 - Bisnis Proses
 
-Akses Aplikasi Online  : https://berteknologi.id/bugar-sehat
-
 
 1. Config -> running script
     - copy .env.example to .env
