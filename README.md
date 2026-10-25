@@ -32,3 +32,15 @@ Source File : https://drive.google.com/drive/u/1/folders/10QmqQ34Stwsk5Q3Ayf994w
 3. Create Seeder [Credential, Master, dll]
 4. Authentication
 5. Create Modul -> Bisnis Proses
+
+Hasil
+------------
+1. Dashboard Owner
+<img width="1917" height="981" alt="image" src="https://github.com/user-attachments/assets/7c4ab81b-5518-4faa-886b-4a38f2bf94a9" />
+
+2. Scan Code QR Staff
+<img width="1912" height="968" alt="image" src="https://github.com/user-attachments/assets/af1b9f69-0576-4efe-88a3-96f28b4c07fa" />
+
+3. Laporan Transaksi
+<img width="1918" height="977" alt="image" src="https://github.com/user-attachments/assets/c641c319-fcb6-4951-b9bf-80187c5428f7" />
+
